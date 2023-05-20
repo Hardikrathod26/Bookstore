@@ -29,11 +29,6 @@ Bookstore is a web application that allows users to browse, search, and purchase
 5. Complete the payment process securely.
 6. View your order history and manage your account settings.
 
-## Technologies Used
-- [Insert programming languages]
-- [Insert frameworks/libraries]
-- [Insert databases]
-- [Insert other relevant technologies]
 
 ## Contributing
 Contributions to this project are welcome. If you would like to contribute, please follow these steps:
@@ -45,8 +40,6 @@ Contributions to this project are welcome. If you would like to contribute, plea
 
 
 ---
-
-Please make sure to update the README file with accurate information about the programming languages, frameworks, libraries, databases, and other technologies used in your Bookstore project. Also, customize the README file based on the specific details and requirements of your project.
 
 
 ![Screenshot 2023-03-12 223637](https://user-images.githubusercontent.com/113702506/224575303-0250c01f-eee2-4121-81e7-6555f8a8747a.png)
